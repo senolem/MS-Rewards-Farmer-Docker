@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>MS-Rewards-Farmer</Name>
-  <Repository>ghcr.io/ltcmdstone/ms-rewards-farmer-docker:latest</Repository>
+  <Repository>melones/ms-rewards-farmer:latest</Repository>
   <Registry/>
   <Network>host</Network>
   <MyIP/>
